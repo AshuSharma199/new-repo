@@ -1,4 +1,4 @@
 # new-repo
 here is my new repo 
 <br>
-author -ashu sharma
+author -ashu sharma(my name)
